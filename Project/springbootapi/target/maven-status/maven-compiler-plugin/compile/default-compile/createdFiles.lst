@@ -1,0 +1,5 @@
+com\springmvc\springbootapi\model\Book.class
+com\springmvc\springbootapi\controller\BookController.class
+com\springmvc\springbootapi\BookApplication.class
+com\springmvc\springbootapi\dao\BookDAO.class
+com\springmvc\springbootapi\repository\BookRepository.class
